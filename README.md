@@ -1,1 +1,1 @@
-# krai-practical
+# KRAI-programs
